@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLShop.Domain", "BLShop.Domain\BLShop.Domain.csproj", "{E9AC8724-5E1D-41C2-BE78-98740DD2AD07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLShop.Domain", "BLShop.Domain\BLShop.Domain.csproj", "{E9AC8724-5E1D-41C2-BE78-98740DD2AD07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLShop.Api", "BLShop.Api\BLShop.Api.csproj", "{6AE9D99A-2EF1-45C2-BD44-925EBBFB04EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLShop.Api", "BLShop.Api\BLShop.Api.csproj", "{6AE9D99A-2EF1-45C2-BD44-925EBBFB04EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLShop.Application", "BLShop.Application\BLShop.Application.csproj", "{2D98DEA9-3CDE-42B7-9DEC-8C1210BE8649}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6AE9D99A-2EF1-45C2-BD44-925EBBFB04EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AE9D99A-2EF1-45C2-BD44-925EBBFB04EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AE9D99A-2EF1-45C2-BD44-925EBBFB04EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D98DEA9-3CDE-42B7-9DEC-8C1210BE8649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D98DEA9-3CDE-42B7-9DEC-8C1210BE8649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D98DEA9-3CDE-42B7-9DEC-8C1210BE8649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D98DEA9-3CDE-42B7-9DEC-8C1210BE8649}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
