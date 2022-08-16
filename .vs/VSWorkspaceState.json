@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\BLShop",
-    "\\BLShop\\BLShop.Domain",
     "\\BLShop\\BLShop.Domain\\Models"
   ],
-  "SelectedNode": "\\BLShop\\BLShop.Domain\\Models\\Product.cs",
+  "SelectedNode": "\\BLShop\\BLShop.sln",
   "PreviewInSolutionExplorer": false
 }

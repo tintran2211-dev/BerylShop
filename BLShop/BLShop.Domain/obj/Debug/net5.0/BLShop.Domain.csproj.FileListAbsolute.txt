@@ -13,3 +13,18 @@ C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Do
 C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Domain\obj\Debug\net5.0\ref\BLShop.Domain.dll
 C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.pdb
 C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.genruntimeconfig.cache
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\bin\Debug\net5.0\BLShop.Domain.deps.json
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\bin\Debug\net5.0\BLShop.Domain.runtimeconfig.json
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\bin\Debug\net5.0\BLShop.Domain.runtimeconfig.dev.json
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\bin\Debug\net5.0\BLShop.Domain.dll
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\bin\Debug\net5.0\ref\BLShop.Domain.dll
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\bin\Debug\net5.0\BLShop.Domain.pdb
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.csproj.AssemblyReference.cache
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.AssemblyInfoInputs.cache
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.AssemblyInfo.cs
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.dll
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\ref\BLShop.Domain.dll
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.pdb
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.genruntimeconfig.cache

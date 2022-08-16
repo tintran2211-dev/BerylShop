@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj": {}
+    "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj": {
+    "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj",
+        "projectUniqueName": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj",
         "projectName": "BLShop.Api",
-        "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj",
-        "packagesPath": "C:\\Users\\Asus TUF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Api\\obj\\",
+        "projectPath": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj",
+        "packagesPath": "C:\\Users\\tintr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus TUF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tintr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj": {
-                "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj"
+              "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj": {
+                "projectPath": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj"
               },
-              "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj"
+              "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj"
               }
             }
           }
@@ -74,17 +78,21 @@
         }
       }
     },
-    "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj": {
+    "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj",
+        "projectUniqueName": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj",
         "projectName": "BLShop.Application",
-        "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj",
-        "packagesPath": "C:\\Users\\Asus TUF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Application\\obj\\",
+        "projectPath": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj",
+        "packagesPath": "C:\\Users\\tintr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus TUF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tintr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,8 +106,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj"
+              "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj"
               }
             }
           }
@@ -132,17 +140,21 @@
         }
       }
     },
-    "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj": {
+    "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj",
         "projectName": "BLShop.Domain",
-        "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj",
-        "packagesPath": "C:\\Users\\Asus TUF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Domain\\obj\\",
+        "projectPath": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\tintr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tintr\\OneDrive\\Desktop\\BerylShop\\BLShop\\BLShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus TUF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tintr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
