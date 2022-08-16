@@ -1,0 +1,15 @@
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\bin\Debug\net5.0\BLShop.Application.deps.json
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\bin\Debug\net5.0\BLShop.Application.dll
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\bin\Debug\net5.0\ref\BLShop.Application.dll
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\bin\Debug\net5.0\BLShop.Application.pdb
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\bin\Debug\net5.0\BLShop.Domain.dll
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\bin\Debug\net5.0\BLShop.Domain.pdb
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.csproj.AssemblyReference.cache
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.AssemblyInfoInputs.cache
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.AssemblyInfo.cs
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.csproj.CopyComplete
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.dll
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\ref\BLShop.Application.dll
+C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.pdb
