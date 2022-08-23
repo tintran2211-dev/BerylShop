@@ -1,4 +1,5 @@
-﻿using BLShop.Application.IRepository;
+﻿using BLShop.Application.DTO;
+using BLShop.Application.IRepository;
 using BLShop.Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -21,43 +22,85 @@ namespace BLShop.Api.Controllers
 
         [HttpGet]
         public IActionResult GetAllProducts()
-        {
-            return Ok(_ipublicProduct.GetAllProduct());
+        {         
+            List<ProductGetDto> productsdto = new List<ProductGetDto>();
+            var products = _ipublicProduct.GetAllProduct();
+
+            foreach (var product in products)
+            {
+                var dto = new ProductGetDto();
+                dto.Id = product.Id;
+                dto.Name = product.Name;
+                dto.Description = product.Description;
+                dto.Price = product.Price;
+                dto.Supplier = product.Supplier;
+                dto.PhotoUrl = product.PhotoUrl;
+                productsdto.Add(dto);
+            }
+            return Ok(productsdto);
         }
 
         [HttpGet]
         [Route("{id}")]
         public IActionResult GetProductById(int id)
         {
+            
             var product = _ipublicProduct.GetAllProduct().FirstOrDefault(p => p.Id == id);
-
             if(product == null)
             {
                 return NotFound();
             }
-            return Ok(product);
+            var productDto = new ProductGetDto();
+            productDto.Id = product.Id;
+            productDto.Name = product.Name;
+            productDto.Description = product.Description;
+            productDto.Price = product.Price;
+            productDto.Supplier = product.Supplier;
+            productDto.PhotoUrl = product.PhotoUrl;
+
+            return Ok(productDto);
         }
 
         [HttpPost]
-         public IActionResult CreatProducts([FromBody]Product product)
+         public IActionResult CreatProducts([FromBody]ProductPutPostDto productDto)
         {
-            var addProduct = _ipublicProduct.CreateProduct(product);
-            if (!addProduct)
-                return BadRequest("Product wasn't created,try again!");
+            if(ModelState.IsValid)
+            {
+                var product = new Product();
+                product.Name = productDto.Name;
+                product.Description = productDto.Description;
+                product.Price = productDto.Price;
+                product.Id = 3;
+                product.Supplier = new Supplier();
+                product.PhotoUrl = "https://twitch.tv/";
 
-            return Created("https://localhost:5001/api/Product/{product.Id}", product);
+                var addProduct = _ipublicProduct.CreateProduct(product);
+                if (!addProduct)
+                    return BadRequest("Product wasn't created,try again!");
+
+                return Created($"https://localhost:5001/api/Product/{product.Id}", product);
+            }
+            return BadRequest("Product Model is not valid");
         }
 
         [HttpPut]
         [Route("{id}")]
-        public IActionResult UpdateProduct([FromBody] Product updateProduct, int id)
+        public IActionResult UpdateProduct([FromBody] ProductPutPostDto updateProductDto, int id)
         {
-            var updateResult = _ipublicProduct.UpdateProduct(id, updateProduct);
+            if(ModelState.IsValid)
+            {
+                var updateProduct = new Product();
+                updateProduct.Name = updateProductDto.Name;
+                updateProduct.Description = updateProductDto.Description;
 
-            if (updateResult)
-                return Ok("Product was updated successfully");
-           
-            return BadRequest("Couldn't update product.Please try again!");
+                var updateResult = _ipublicProduct.UpdateProduct(updateProduct);
+
+                if (updateResult)
+                    return Ok("Product was updated successfully");
+
+                return BadRequest("Couldn't update product.Please try again!");
+            }
+            return BadRequest("Product Model is not valid");
         }
 
         [HttpDelete]

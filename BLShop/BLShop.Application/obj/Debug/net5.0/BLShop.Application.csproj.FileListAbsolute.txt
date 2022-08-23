@@ -13,3 +13,18 @@ C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\ne
 C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.dll
 C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\ref\BLShop.Application.dll
 C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.pdb
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\bin\Debug\net5.0\BLShop.Application.deps.json
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\bin\Debug\net5.0\BLShop.Application.dll
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\bin\Debug\net5.0\ref\BLShop.Application.dll
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\bin\Debug\net5.0\BLShop.Application.pdb
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\bin\Debug\net5.0\BLShop.Domain.dll
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\bin\Debug\net5.0\BLShop.Domain.pdb
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.AssemblyInfoInputs.cache
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.AssemblyInfo.cs
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.csproj.CopyComplete
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.dll
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\obj\Debug\net5.0\ref\BLShop.Application.dll
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Application\obj\Debug\net5.0\BLShop.Application.pdb

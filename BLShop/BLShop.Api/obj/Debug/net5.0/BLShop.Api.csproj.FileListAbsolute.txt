@@ -122,3 +122,5 @@ C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Api\obj\Debug\net5.0\BLS
 C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Api\obj\Debug\net5.0\ref\BLShop.Api.dll
 C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Api\obj\Debug\net5.0\BLShop.Api.pdb
 C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Api\obj\Debug\net5.0\BLShop.Api.genruntimeconfig.cache
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Api\bin\Debug\net5.0\BLShop.Application.dll
+C:\Users\Asus TUF\Desktop\BLShop\BLShop\BLShop.Api\bin\Debug\net5.0\BLShop.Application.pdb
