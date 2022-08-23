@@ -21,7 +21,6 @@ namespace BLShop.Application.Repository
         public bool DeleteProduct(int id)
         {
             var deleteproduct = _products.FirstOrDefault(p => p.Id == id);
-
             if (deleteproduct == null)
                 return false;
             _products.Remove(deleteproduct);
@@ -60,9 +59,9 @@ namespace BLShop.Application.Repository
             return _products;
         }
 
-        public bool UpdateProduct(int id, Product updateProduct)
+        public bool UpdateProduct(Product updateProduct)
         {
-            var udproduct = _products.FirstOrDefault(p => p.Id == id);
+            var udproduct = _products.FirstOrDefault(p => p.Id == updateProduct.Id);
 
             if(udproduct != null)
             {

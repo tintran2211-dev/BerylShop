@@ -12,7 +12,7 @@ namespace BLShop.Application.IRepository
     {
         List<Product> GetAllProduct();
         bool CreateProduct(Product product);
-        bool UpdateProduct(int id, Product updateProduct);
+        bool UpdateProduct(Product updateProduct);
         bool DeleteProduct(int id);
     }
 }
