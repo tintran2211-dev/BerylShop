@@ -1,5 +1,5 @@
-﻿using BLShop.Application.DTO;
-using BLShop.Application.IRepository;
+﻿using BLShop.Api.DTO;
+using BLShop.Domain.IRepository;
 using BLShop.Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

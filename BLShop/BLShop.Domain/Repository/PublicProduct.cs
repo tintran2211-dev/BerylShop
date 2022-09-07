@@ -1,4 +1,4 @@
-﻿using BLShop.Application.IRepository;
+﻿using BLShop.Domain.IRepository;
 using BLShop.Domain.Models;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLShop.Application.Repository
+namespace BLShop.Domain.Repository
 {
     public class PublicProduct : IPublicProduct
     {

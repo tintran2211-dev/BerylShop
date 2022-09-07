@@ -28,3 +28,15 @@ C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\
 C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\ref\BLShop.Domain.dll
 C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.pdb
 C:\Users\tintr\OneDrive\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.genruntimeconfig.cache
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\bin\Debug\net5.0\BLShop.Domain.deps.json
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\bin\Debug\net5.0\BLShop.Domain.dll
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\bin\Debug\net5.0\ref\BLShop.Domain.dll
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\bin\Debug\net5.0\BLShop.Domain.pdb
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.AssemblyInfo.cs
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.dll
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\ref\BLShop.Domain.dll
+C:\Users\Asus TUF\Desktop\BerylShop\BLShop\BLShop.Domain\obj\Debug\net5.0\BLShop.Domain.pdb
