@@ -1348,7 +1348,10 @@
       },
       "BLShop.Application/1.0.0": {
         "dependencies": {
-          "BLShop.Domain": "1.0.0"
+          "BLShop.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.15",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.15",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.15"
         },
         "runtime": {
           "BLShop.Application.dll": {}
@@ -1358,10 +1361,6 @@
         }
       },
       "BLShop.Domain/1.0.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.15",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.15"
-        },
         "runtime": {
           "BLShop.Domain.dll": {}
         },

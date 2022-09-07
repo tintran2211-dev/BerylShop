@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9E2ycp9MZ6Hxm+QrEHn2u/mNugcJzBLF+LHOq3vZ5xVL2K3znC/QNO/IwWLHkd7GFqb1kQXFE0DCGupN0n8xxQ==",
+  "dgSpecHash": "OhTMc6UC7Thq1+QBLzwUgefB1q9/EtiIGZk7PffYng175h87goYPkvfI3T84rQxAB2COtfDF/IWOfqmOdL6faQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj",
+  "projectFilePath": "C:\\Users\\Asus TUF\\Desktop\\BerylShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus TUF\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Asus TUF\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

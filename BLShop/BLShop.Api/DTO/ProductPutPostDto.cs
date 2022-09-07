@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLShop.Application.DTO
+namespace BLShop.Api.DTO
 {
     public class ProductPutPostDto
     {

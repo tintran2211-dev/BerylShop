@@ -1560,7 +1560,10 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "BLShop.Domain": "1.0.0"
+          "BLShop.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.15",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.15",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.15"
         },
         "compile": {
           "bin/placeholder/BLShop.Application.dll": {}
@@ -1572,11 +1575,6 @@
       "BLShop.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.15",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.15",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.15"
-        },
         "compile": {
           "bin/placeholder/BLShop.Domain.dll": {}
         },
@@ -5927,11 +5925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Asus TUF\\Desktop\\BerylShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj",
       "projectName": "BLShop.Api",
-      "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj",
+      "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BerylShop\\BLShop\\BLShop.Api\\BLShop.Api.csproj",
       "packagesPath": "C:\\Users\\Asus TUF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Api\\obj\\",
+      "outputPath": "C:\\Users\\Asus TUF\\Desktop\\BerylShop\\BLShop\\BLShop.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus TUF\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5948,11 +5946,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj": {
-              "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj"
+            "C:\\Users\\Asus TUF\\Desktop\\BerylShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj": {
+              "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BerylShop\\BLShop\\BLShop.Application\\BLShop.Application.csproj"
             },
-            "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BLShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj"
+            "C:\\Users\\Asus TUF\\Desktop\\BerylShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\Asus TUF\\Desktop\\BerylShop\\BLShop\\BLShop.Domain\\BLShop.Domain.csproj"
             }
           }
         }
