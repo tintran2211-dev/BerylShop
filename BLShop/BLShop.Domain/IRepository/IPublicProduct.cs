@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLShop.Application.IRepository
+namespace BLShop.Domain.IRepository
 {
     public interface IPublicProduct
     {

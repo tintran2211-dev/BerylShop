@@ -1,9 +1,12 @@
-using BLShop.Application.IRepository;
-using BLShop.Application.Repository;
+using BLShop.Domain;
+using BLShop.Domain.EF;
+using BLShop.Domain.IRepository;
+using BLShop.Domain.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -29,6 +32,11 @@ namespace BLShop.Api
         public void ConfigureServices(IServiceCollection services)
         {
 
+
+            services.AddDbContext<DBContext>(opt =>
+            {
+                opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+            });
             services.AddSingleton<IPublicProduct, PublicProduct>();
 
             services.AddControllers();
